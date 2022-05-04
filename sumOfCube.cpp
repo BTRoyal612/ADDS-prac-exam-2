@@ -1,5 +1,4 @@
-int sumOfCube(int n)
-{
+int sumOfCube(int n) {
   if (n <= 0) {
     return 0;
   }
